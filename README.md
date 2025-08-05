@@ -6,6 +6,8 @@ config-server
 eureka
 api-gateway
 rabbitMQ
+MYSQL
+H2-Console
 logtash-elastiksearch
 zipkin
 feign client
