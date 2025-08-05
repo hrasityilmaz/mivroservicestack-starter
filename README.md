@@ -5,6 +5,7 @@ including :
 config-server
 eureka
 api-gateway
+rabbitMQ
 logtash-elastiksearch
 zipkin
 feign client
