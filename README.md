@@ -3,7 +3,7 @@ multiservice easy start project
 
 including :
 config-server
-uureka
+eureka
 api-gateway
 logtash-elastiksearch
 zipkin
