@@ -1,0 +1,29 @@
+{
+  "folders": [
+    {
+      "path": "discoveryservice"
+    },
+    {
+      "path": "usersapi"
+    },
+    {
+      "path": "accountapi"
+    },
+	},
+    {
+      "path": "apigateway"
+    },
+    {
+      "path": "configserver"
+    },
+    {
+      "path": "serviceapi"
+    },
+    {
+      "path": "ELK"
+    }
+  ],
+  "settings": {
+    "java.compile.nullAnalysis.mode": "automatic"
+  }
+}
